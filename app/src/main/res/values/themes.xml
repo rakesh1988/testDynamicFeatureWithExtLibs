@@ -22,4 +22,8 @@
     <style name="Theme.TestDynamicDelivery.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.TestDynamicDelivery.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--	placeholders for styles that are defined in libraries of dynamic feature module-->
+    <style name="iproov__AppTheme" />
+
 </resources>
